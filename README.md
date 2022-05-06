@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeff Ott, and I am a graduate student in the USF Masters in Data Science program. During this program, I've tackled many topics and projects. I will post what projects I can, but at the university's request, the code will not be readily available unless by specific request. I am interested in computer vision, deep learning, A/B testing, and using Data engineering to reinforce these.
+My name is Jeff Ott, and I am a graduate student in the USF Masters in Data Science program. During this program, I've tackled many topics and projects. I will post what projects I can, but at the university's request, the code will not be readily available unless by specific request. I am interested in computer vision, deep learning, A/B testing, and using Data engineering to reinforce these interests
 
 ### Data translation pipeline  <br>
 Description: In this project we made some pyfiles to translate to different data types from command line <br><br>
