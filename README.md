@@ -53,7 +53,7 @@ Using my decision tree implementation from before. I was tasked with combining t
 *Libraries Used: numpy, scipy.stats, lolviz <br><br>
 
 
-## OO hash table implimentation <br>
+<!-- ## OO hash table implimentation <br> 
 In this 
 Libraries Used:
 
@@ -75,4 +75,4 @@ Libraries Used:
 ## A/B Testing hypothetical UI optimization problem inspired by Netflix <br>
 Libraries Used:
 
-## Gradient Boosted Neural Networks
+## Gradient Boosted Neural Networks -->
