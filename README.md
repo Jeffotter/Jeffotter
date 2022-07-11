@@ -9,7 +9,10 @@ My name is Jeff Ott, and I am a graduate student in the USF Masters in Data Scie
 Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This wa done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines <br>
 Libraries Used: Pytorch, torchIO, Pytorch Lightning, Plotly, Sklearn <br>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/60712345/178179031-78fb6273-284e-4cc3-8ada-b003c02bdfe0.gif)
+| Parcellation | Raw MRIs
+| ------------- | ------------- |
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60712345/178179031-78fb6273-284e-4cc3-8ada-b003c02bdfe0.gif) | ![image](https://user-images.githubusercontent.com/60712345/178181131-31c59e98-18f3-4f42-9ac6-425507efd86b.png)
+
 
 
 ### Bot Town <br>
