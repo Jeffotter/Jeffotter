@@ -16,6 +16,9 @@ Libraries Used: Pytorch, torchIO, Pytorch Lightning, Plotly, Sklearn <br>
 Description: Utilizing a GPT-2 Seq2Seq model I was able to recreate different podcast characters from the series critical role. I then added these bots to nodes which walked around and spoke to each othe. Their paths can be seen below. The full repository is found here. https://github.com/Jeffotter/BotTown <br>
 Libraries Used: Pytorch,Pandas, NLTK, Matplotlib <br>
 
+
+| Walking Characters | Sample Conversation 
+| ------------- | ------------- |
 ![bottown](https://user-images.githubusercontent.com/60712345/178180541-74824dd1-03f7-4703-8be2-bed4aab27bdb.gif) | ![image](https://user-images.githubusercontent.com/60712345/178180660-5a0b65e4-8862-49b8-877d-261a7ca744e9.png)
 
 
