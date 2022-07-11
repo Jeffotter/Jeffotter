@@ -6,9 +6,21 @@ My name is Jeff Ott, and I am a graduate student in the USF Masters in Data Scie
 
 
 ### ADAS COG SCORE PREDICTION  <br>
-Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This wa done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines 
+Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This wa done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines <br>
+Libraries Used: Pytorch, torchIO, Pytorch Lightning, Plotly, Sklearn <br>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60712345/178179031-78fb6273-284e-4cc3-8ada-b003c02bdfe0.gif)
+
+
+### Bot Town <br>
+Description: Utilizing a GPT-2 Seq2Seq model I was able to recreate different podcast characters from the series critical role. I then added these bots to nodes which walked around and spoke to each othe. Their paths can be seen below. The full repository is found here. https://github.com/Jeffotter/BotTown <br>
+Libraries Used: Pytorch,Pandas, NLTK, Matplotlib <br>
+
+![bottown](https://user-images.githubusercontent.com/60712345/178180541-74824dd1-03f7-4703-8be2-bed4aab27bdb.gif) | ![image](https://user-images.githubusercontent.com/60712345/178180660-5a0b65e4-8862-49b8-877d-261a7ca744e9.png)
+
+
+
+
 
 ### Data translation pipeline  <br>
 Description: In this project we made some pyfiles to translate to different data types from command line <br><br>
