@@ -2,6 +2,14 @@
 
 My name is Jeff Ott, and I am a graduate student in the USF Masters in Data Science program. During this program, I've tackled many topics and projects. I will post what projects I can, but at the university's request, the code will not be readily available unless by specific request. I am interested in computer vision, deep learning, A/B testing, and using Data engineering to reinforce these interests
 
+
+
+
+### ADAS COG SCORE PREDICTION  <br>
+Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This wa done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60712345/178179031-78fb6273-284e-4cc3-8ada-b003c02bdfe0.gif)
+
 ### Data translation pipeline  <br>
 Description: In this project we made some pyfiles to translate to different data types from command line <br><br>
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/60712345/161851380-3bef0ea3-8560-46c0-b48f-fc1c0e26d7c7.png"> <br>
