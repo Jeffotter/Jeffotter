@@ -5,7 +5,7 @@ My name is Jeff Ott, and I am a Engineer turned Data Scientist. I recently gradu
 
 
 ### ADAS COG SCORE PREDICTION  <br>
-Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This wa done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines <br>
+Description: In work I did for the UCSF Brain Lab found here https://github.com/darenma/unet2021 we predicted ADAS Cog a memory exam given to patients to diagnose their cognative decline from 3D MRI volumes. This was done with a dual semantic segmentations unet to predict both matter types and Desikan Killany brain atlas parts. Using these data pipeline I also predicted the Adas Cog score. Below is the results from one of the segmentation pipelines <br>
 Libraries Used: Pytorch, torchIO, Pytorch Lightning, Plotly, Sklearn <br>
 
 | Parcellation | Raw MRIs
