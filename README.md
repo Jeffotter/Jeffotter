@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeff Ott, and I am an Engineer turned Data Scientist. I recently graduated from USF's Masters in Data Science program. During this program, I've tackled many topics and projects. I will post what projects I can, but at the university's request, the code will not be readily available unless by specific request. I am interested in computer vision, deep learning, A/B testing, and using Data engineering to reinforce these interests.
+My name is Jeff Ott, and I am an Engineer turned Data Scientist. I recently graduated from USF's Master’s in Data Science program. During this program, I've tackled many topics and projects. I will post what projects I can, but at the university's request, the code will not be readily available unless by specific request. I am interested in computer vision, deep learning, A/B testing, and using data engineering to reinforce these interests.
 
 
 
